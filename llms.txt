@@ -1,0 +1,10 @@
+# Albura
+
+> Sviluppo web, consulenza e formazione digitale. Daniele Grasso, libero professionista.
+
+## Pagine
+
+- [Home](https://albura.it/)
+- [Progetti e soluzioni](https://albura.it/progetti-e-soluzioni.html)
+- [Consulenza e formazione](https://albura.it/consulenza-formazione.html)
+- [Casi studio](https://albura.it/casi-studio-albura.html)
